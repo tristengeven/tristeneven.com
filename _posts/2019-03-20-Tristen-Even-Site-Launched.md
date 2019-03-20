@@ -1,0 +1,7 @@
+---
+layout: post
+title: "My site is officially online."
+date: 2019-03-20
+---
+
+I had researched ways to create a personal site for a while, looking through different processes such as grinding out plain HTML and CSS files or doing almost none of the work myself through [Gatsby](https://www.gatsbyjs.org/starters/?v=2) templates. It often occurs that what is supposed to be preparatory research becomes me going down endless rabbit holes and never actually starting any work. So, in an effort to actually get something on the web (and something that I was partially to blame for creating) I chose to follow Jonathan McGlone's [guide](http://jmcglone.com/guides/github-pages/) to creating and hosting a site powered by [Jekyll](http://jekyllrb.com) through GitHub. The page templates are interesting and make many of the elements modular, which greatly speeds up later page creation after the initial setup. The pages themselves are written in [Markdown](https://daringfireball.net/projects/markdown/), something I haven't used until now, but can see myself growing to enjoy; Markdown grants the opportunity to move away from massive HTML files that are awkward to understand and which can be difficult to write (a cheatsheet to the Markdown syntax can be found [here](http://packetlife.net/media/library/16/Markdown.pdf)).
