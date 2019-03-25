@@ -1,2 +1,36 @@
-name: Tristen Even
+# site settings
+title: Even So
+subtitle: by Tristen Even
+email: tristengeven@gmail.com
+description: This site is intended to exhibit the progression of <br /> my studies and hobbies. Have a look around.
+baseurl: "/tristengeven.github.io" # the subpath of your site, e.g. /blog
+url: # the base hostname & protocol for your site
+author:
+street_address: Hermann Blankenstein Str 8 <br /> c/o Schröder und Winkler #3413 Glenview Way
+city: Berlin #Rowlett
+state: #TN
+zip_code: 10249 #75089
+country: Germany #United States of America
+phone: +49 176 3696 2391 #(469) 371-8598
+
+# homepage tiles
+tiles-source: pages # accepts "posts" or "pages"
+tiles-count: 6
+
+# social settings
+500px_url:
+facebook_url: https://www.facebook.com/tristengeven
+github_url: https://github.com/tristengeven/
+gitlab_url: 
+googleplus_url:
+instagram_url: https://www.instagram.com/thenamestristen/
+linkedin_url: https://linkedin.com/in/tristeneven/
+pinterest_url:
+slack_url:
+twitter_url:
+
+# build settings
 markdown: kramdown
+
+sass:
+  style: compressed
