@@ -1,7 +1,10 @@
 ---
 layout: page
 title: Elements
-nav-menu: true
+nav-menu: false
+description: Site elements to be used later
+image: assets/images/pic04.jpg
+show_tile: false
 ---
 
 <!-- Main -->
