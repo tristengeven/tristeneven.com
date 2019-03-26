@@ -3,6 +3,7 @@ layout: post
 title: Resume
 description: Qualifications and abilities
 image: assets/images/pic09.jpg
+email: tristen.even@utdallas.edu
 nav-menu: true
 show_tile: true
 ---
