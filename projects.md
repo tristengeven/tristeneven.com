@@ -3,6 +3,7 @@ layout: landing
 title: Projects
 description: Projects I'm working on
 image: assets/images/code.jpg
+email: tristen.even@utdallas.edu
 nav-menu: true
 show_tile: true
 ---
