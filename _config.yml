@@ -6,12 +6,12 @@ description: This site is intended to exhibit the progression of <br /> my studi
 baseurl: "/tristengeven.github.io" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
-street_address: Hermann Blankenstein Str 8 <br /> c/o Schröder und Winkler #3413 Glenview Way
-city: Berlin #Rowlett
-state: #TN
-zip_code: 10249 #75089
-country: Germany #United States of America
-phone: +49 176 3696 2391 #(469) 371-8598
+street_address:
+city: Berlin
+state:
+zip_code:
+country: Germany
+phone: "Current: +49 176 3696 2391 <br /> Alternate (currently disabled): 469-371-8598"
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
