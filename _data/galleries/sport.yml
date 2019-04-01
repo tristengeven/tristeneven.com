@@ -1,0 +1,14 @@
+picture_path: sport
+pictures:
+- filename: sport_mtx_001
+  original: sport_mtx_001-1600x966.jpg
+  sizes: []
+  thumbnail: sport_mtx_001-1600x966.jpg
+- filename: sport_mtx_002
+  original: sport_mtx_002-800x701.jpg
+  sizes: []
+  thumbnail: sport_mtx_002-800x701.jpg
+- filename: sport_mtx_003
+  original: sport_mtx_003-1600x751.jpg
+  sizes: []
+  thumbnail: sport_mtx_003-1600x751.jpg

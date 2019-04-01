@@ -11,9 +11,9 @@ from os import listdir, rename
 from os.path import isfile, join
 
 # configuration
-output_file = "animals.yml"
+output_file = "wild.yml"
 input_file = output_file
-image_path = "animals"
+image_path = "wild"
 extensions= ['jpg', 'png']
 
 # set correct path
@@ -29,8 +29,8 @@ files = [f for f in files if f[f.rfind('.')+1:] in extensions ]
 print('Renaming files...')
 new_files = []
 for f in files:
-    if f[f.rfind('_')+1:f.rfind('.')] != 'thumbnail':
-        newf = f[:f.rfind('_')] + "-%sx%s" % imagesize.get(join(path, f)) + f[f.rfind('.'):]
+    if f[f.rfind('-')+1:f.rfind('.')] != 'thumbnail':
+        newf = f[:f.rfind('-')] + "-%sx%s" % imagesize.get(join(path, f)) + f[f.rfind('.'):]
         rename(join(path, f),join(path, newf))
     else:
         newf = f
