@@ -24,7 +24,7 @@ show_tile: true
 <!-- Two -->
 <section id="two" class="spotlights">
 	<section>
-		<a href="generic.html" class="image">
+		<a href="people.html" class="image">
 			<img src="assets/images/quill_peek.jpg" alt="" data-position="center center" />
 		</a>
 		<div class="content">
@@ -40,8 +40,8 @@ show_tile: true
 		</div>
 	</section>
 	<section>
-		<a href="generic.html" class="image">
-			<img src="assets/images/proud_boy.jpg" alt="" data-position="25% 25%" />
+		<a href="wild.html" class="image">
+			<img src="assets/images/proud_boy.jpg" alt="" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -56,7 +56,7 @@ show_tile: true
 		</div>
 	</section>
 	<section>
-		<a href="generic.html" class="image">
+		<a href="sport.html" class="image">
 			<img src="assets/images/backflip.jpg" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
@@ -72,7 +72,7 @@ show_tile: true
 		</div>
 	</section>
 	<section>
-		<a href="generic.html" class="image">
+		<a href="urban.html" class="image">
 			<img src="assets/images/rome_thru.jpg" alt="" data-position="top center" />
 		</a>
 		<div class="content">
