@@ -3,6 +3,7 @@ layout: gallery
 title: Action & Sports Gallery
 description: Action & Sports Photos
 email: evensophotography@gmail.com
+support: [jquery, gallery]
 ---
 
 <!-- One -->

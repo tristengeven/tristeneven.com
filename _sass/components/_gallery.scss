@@ -22,14 +22,15 @@ html {
 
   .image-wrapper {
     float: left;
-    padding: 3px;
+    padding-left: 5px;
+    padding-right: 5px;
 
     // hack required if no padding
     .image {
       width: 100.1%;
       width: calc( 100% + 1px );
       height: 100%;
-
+    
       &:hover {
 					opacity: .9;
 			}

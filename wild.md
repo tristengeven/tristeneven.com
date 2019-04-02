@@ -3,6 +3,7 @@ layout: gallery
 title: Wildlife Gallery
 description: Wildlife Photos
 email: evensophotography@gmail.com
+support: [jquery, gallery]
 ---
 
 <!-- One -->
