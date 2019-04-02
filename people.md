@@ -3,6 +3,7 @@ layout: gallery
 title: People Gallery
 description: People Photos
 email: evensophotography@gmail.com
+support: [jquery, gallery]
 ---
 
 <!-- One -->

@@ -3,6 +3,7 @@ layout: gallery
 title: Urban Gallery
 description: Urban Photos
 email: evensophotography@gmail.com
+support: [jquery, gallery]
 ---
 
 <!-- One -->
