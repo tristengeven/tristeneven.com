@@ -2,7 +2,7 @@
 layout: landing
 title: Projects
 description: Projects I'm working on
-image: assets/images/code.jpg
+image: assets/images/code.webp
 email: tristen.even@utdallas.edu
 nav-menu: true
 show_tile: true
@@ -25,7 +25,7 @@ show_tile: true
 <section id="two" class="spotlights">
 	<section>
 		<a href="generic.html" class="image">
-			<img src="assets/images/homepage.jpg" alt="" data-position="center center" />
+			<img src="assets/images/homepage.webp" alt="" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -41,7 +41,7 @@ show_tile: true
 	</section>
 	<section>
 		<a href="generic.html" class="image">
-			<img src="assets/images/pic05.jpg" alt="" data-position="top center" />
+			<img src="assets/images/remove.webp" alt="" data-position="top center" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -57,7 +57,7 @@ show_tile: true
 	</section>
 	<section>
 		<a href="generic.html" class="image">
-			<img src="assets/images/pic10.jpg" alt="" data-position="25% 25%" />
+			<img src="assets/images/remove.webp" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
 			<div class="inner">

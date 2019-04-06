@@ -3,7 +3,7 @@ layout: post
 title: About Me
 description: Short Biography
 email: tristengeven@gmail.com
-image: assets/images/tristen_portrait.jpg
+image: assets/images/tristen_portrait.webp
 nav-menu: true
 show_tile: true
 ---

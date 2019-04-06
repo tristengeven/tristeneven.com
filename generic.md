@@ -2,7 +2,7 @@
 layout: post
 title: Generic
 description: Lorem ipsum dolor est
-image: assets/images/remove.jpg
+image: assets/images/remove.webp
 nav-menu: false
 show_tile: false
 ---

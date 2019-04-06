@@ -2,7 +2,7 @@
 layout: landing
 title: Photography
 description: My attempt at taking pictures worth seeing
-image: assets/images/mirror_camera.jpg
+image: assets/images/mirror_camera.webp
 email: evensophotography@gmail.com
 nav-menu: true
 show_tile: true
@@ -25,7 +25,7 @@ show_tile: true
 <section id="two" class="spotlights">
 	<section>
 		<a href="people.html" class="image">
-			<img src="assets/images/quill_peek.jpg" alt="" data-position="center center" />
+			<img src="assets/images/quill_peek.webp" alt="" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -41,7 +41,7 @@ show_tile: true
 	</section>
 	<section>
 		<a href="wild.html" class="image">
-			<img src="assets/images/proud_boy.jpg" alt="" data-position="center center" />
+			<img src="assets/images/proud_boy.webp" alt="" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -57,7 +57,7 @@ show_tile: true
 	</section>
 	<section>
 		<a href="sport.html" class="image">
-			<img src="assets/images/backflip.jpg" alt="" data-position="25% 25%" />
+			<img src="assets/images/backflip.webp" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -73,7 +73,7 @@ show_tile: true
 	</section>
 	<section>
 		<a href="urban.html" class="image">
-			<img src="assets/images/rome_thru.jpg" alt="" data-position="top center" />
+			<img src="assets/images/rome_thru.webp" alt="" data-position="top center" />
 		</a>
 		<div class="content">
 			<div class="inner">

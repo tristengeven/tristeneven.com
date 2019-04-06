@@ -14,7 +14,7 @@ from os.path import isfile, join
 output_file = "wild.yml"
 input_file = output_file
 image_path = "wild"
-extensions= ['jpg', 'png']
+extensions= ['webp'] #'jpg', 'png'
 
 # set correct path
 path = join("../../assets/images", image_path)

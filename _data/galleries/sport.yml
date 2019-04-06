@@ -1,14 +1,14 @@
 picture_path: sport
 pictures:
-- filename: sport_mtx_001
-  original: sport_mtx_001-1600x966.jpg
+- filename: sport_mtx_001--1x
+  original: sport_mtx_001--1x-1.webp
   sizes: []
-  thumbnail: sport_mtx_001-1600x966.jpg
-- filename: sport_mtx_002
-  original: sport_mtx_002-800x701.jpg
+  thumbnail: sport_mtx_001--1x-1.webp
+- filename: sport_mtx_002--1x
+  original: sport_mtx_002--1x-1.webp
   sizes: []
-  thumbnail: sport_mtx_002-800x701.jpg
-- filename: sport_mtx_003
-  original: sport_mtx_003-1600x751.jpg
+  thumbnail: sport_mtx_002--1x-1.webp
+- filename: sport_mtx_003--1x
+  original: sport_mtx_003--1x-1.webp
   sizes: []
-  thumbnail: sport_mtx_003-1600x751.jpg
+  thumbnail: sport_mtx_003--1x-1.webp

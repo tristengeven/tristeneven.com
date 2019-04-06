@@ -1,26 +1,26 @@
 picture_path: urban
 pictures:
-- filename: urban_berlin_001
-  original: urban_berlin_001-1600x713.jpg
+- filename: urban_rome_002--1x--1x
+  original: urban_rome_002--1x--1x-1.webp
   sizes: []
-  thumbnail: urban_berlin_001-1600x713.jpg
-- filename: urban_berlin_002
-  original: urban_berlin_002-1491x1018.jpg
+  thumbnail: urban_rome_002--1x--1x-1.webp
+- filename: urban_berlin_002--1x--1x
+  original: urban_berlin_002--1x--1x-1.webp
   sizes: []
-  thumbnail: urban_berlin_002-1491x1018.jpg
-- filename: urban_rome_001
-  original: urban_rome_001-1527x1018.jpg
+  thumbnail: urban_berlin_002--1x--1x-1.webp
+- filename: urban_rome_004--1x--1x
+  original: urban_rome_004--1x--1x-1.webp
   sizes: []
-  thumbnail: urban_rome_001-1527x1018.jpg
-- filename: urban_rome_002
-  original: urban_rome_002-1067x1067.jpg
+  thumbnail: urban_rome_004--1x--1x-1.webp
+- filename: urban_berlin_001--1x--1x
+  original: urban_berlin_001--1x--1x-1.webp
   sizes: []
-  thumbnail: urban_rome_002-1067x1067.jpg
-- filename: urban_rome_003
-  original: urban_rome_003-1067x1067.jpg
+  thumbnail: urban_berlin_001--1x--1x-1.webp
+- filename: urban_rome_001--1x--1x
+  original: urban_rome_001--1x--1x-1.webp
   sizes: []
-  thumbnail: urban_rome_003-1067x1067.jpg
-- filename: urban_rome_004
-  original: urban_rome_004-1600x1067.jpg
+  thumbnail: urban_rome_001--1x--1x-1.webp
+- filename: urban_rome_003--1x--1x
+  original: urban_rome_003--1x--1x-1.webp
   sizes: []
-  thumbnail: urban_rome_004-1600x1067.jpg
+  thumbnail: urban_rome_003--1x--1x-1.webp
