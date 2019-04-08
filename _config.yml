@@ -3,7 +3,7 @@ title: Even So
 subtitle: by Tristen Even
 email: tristengeven@gmail.com
 description: This site is intended to exhibit the progression of <br /> my studies and hobbies. Have a look around.
-baseurl: "/tristengeven.github.io" # the subpath of your site, e.g. /blog
+baseurl: "/tristeneven.netlify.com" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
 street_address:
