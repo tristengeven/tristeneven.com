@@ -1,4 +1,4 @@
-# tristengeven.github.io
+# tristeneven.com
 @tristengeven's personal website
 
 -----------------------------------------------------------------
