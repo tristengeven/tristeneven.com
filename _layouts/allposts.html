@@ -24,7 +24,7 @@
 	  <header class="major">
 	    <h1>{{ post.title }}</h1>
     </header>
-    {% if post.date %}<p>{{ post.date | date_to_long_string }}</p>{% endif %}
+    {% if post.date %}<p>{{ post.date | date_to_long_string }} | Tristen Even</p>{% endif %}
 	  {% if post.image %}<span class="image main"><img src="{{ site.baseurl }}/{{ post.image }}" alt="" /></span>{% endif %}
 	  <p>{{ post.content }}</p>
 	  {% endif %}
