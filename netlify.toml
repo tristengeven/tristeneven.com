@@ -1,4 +1,1 @@
-[build]
-  base = "/"
-  publish = "_site"
-  command = "jekyll build"
+baseurl = "https://tristeneven.netlify.com/"
