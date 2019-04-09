@@ -26,17 +26,17 @@ files = [f for f in listdir(path) if isfile(join(path, f))]
 files = [f for f in files if f[f.rfind('.')+1:] in extensions ]
 
 # rename image files
-print('Renaming files...')
-new_files = []
-for f in files:
-    if f[f.rfind('-')+1:f.rfind('.')] != 'thumbnail':
-        newf = f[:f.rfind('-')] + "-%sx%s" % imagesize.get(join(path, f)) + f[f.rfind('.'):]
-        rename(join(path, f),join(path, newf))
-    else:
-        newf = f
-    new_files.append(newf)
+# print('Renaming files...')
+# new_files = []
+# for f in files:
+#     if f[f.rfind('-')+1:f.rfind('.')] != 'thumbnail':
+#         newf = f[:f.rfind('-')] + "-%sx%s" % imagesize.get(join(path, f)) + f[f.rfind('.'):]
+#         rename(join(path, f),join(path, newf))
+#     else:
+#         newf = f
+#     new_files.append(newf)
 
-files = new_files
+# files = new_files
 
 # helper objects to store gallery data
 new_gallery = {}
