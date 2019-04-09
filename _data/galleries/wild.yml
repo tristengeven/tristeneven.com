@@ -1,150 +1,150 @@
-picture_path: wild
+picture_path: wild_webp
 pictures:
-- filename: wild_bird_001.web
-  original: wild_bird_001.webp
+- filename: wild_08--1x
+  original: wild_08--1x-1.webp
   sizes: []
-  thumbnail: wild_bird_001.webp
-- filename: wild_bird_002.web
-  original: wild_bird_002.webp
+  thumbnail: wild_08--1x-1.webp
+- filename: wild_031--1x
+  original: wild_031--1x-1.webp
   sizes: []
-  thumbnail: wild_bird_002.webp
-- filename: wild_butterfly_001.web
-  original: wild_butterfly_001.webp
+  thumbnail: wild_031--1x-1.webp
+- filename: wild_028--1x
+  original: wild_028--1x-1.webp
   sizes: []
-  thumbnail: wild_butterfly_001.webp
-- filename: wild_butterfly_002.web
-  original: wild_butterfly_002.webp
+  thumbnail: wild_028--1x-1.webp
+- filename: wild_015--1x
+  original: wild_015--1x-1.webp
   sizes: []
-  thumbnail: wild_butterfly_002.webp
-- filename: wild_chamonix_001.web
-  original: wild_chamonix_001.webp
+  thumbnail: wild_015--1x-1.webp
+- filename: wild_017--1x
+  original: wild_017--1x-1.webp
   sizes: []
-  thumbnail: wild_chamonix_001.webp
-- filename: wild_chamonix_002.web
-  original: wild_chamonix_002.webp
+  thumbnail: wild_017--1x-1.webp
+- filename: wild_033--1x
+  original: wild_033--1x-1.webp
   sizes: []
-  thumbnail: wild_chamonix_002.webp
-- filename: wild_chamonix_003.web
-  original: wild_chamonix_003.webp
+  thumbnail: wild_033--1x-1.webp
+- filename: wild_037--1x
+  original: wild_037--1x-1.webp
   sizes: []
-  thumbnail: wild_chamonix_003.webp
-- filename: wild_duck_001.web
-  original: wild_duck_001.webp
+  thumbnail: wild_037--1x-1.webp
+- filename: wild_013--1x
+  original: wild_013--1x-1.webp
   sizes: []
-  thumbnail: wild_duck_001.webp
-- filename: wild_frog_001.web
-  original: wild_frog_001.webp
+  thumbnail: wild_013--1x-1.webp
+- filename: wild_011--1x
+  original: wild_011--1x-1.webp
   sizes: []
-  thumbnail: wild_frog_001.webp
-- filename: wild_frog_002.web
-  original: wild_frog_002.webp
+  thumbnail: wild_011--1x-1.webp
+- filename: wild_035--1x
+  original: wild_035--1x-1.webp
   sizes: []
-  thumbnail: wild_frog_002.webp
-- filename: wild_frog_003.web
-  original: wild_frog_003.webp
+  thumbnail: wild_035--1x-1.webp
+- filename: wild_016--1x
+  original: wild_016--1x-1.webp
   sizes: []
-  thumbnail: wild_frog_003.webp
-- filename: wild_orchid_001.web
-  original: wild_orchid_001.webp
+  thumbnail: wild_016--1x-1.webp
+- filename: wild_032--1x
+  original: wild_032--1x-1.webp
   sizes: []
-  thumbnail: wild_orchid_001.webp
-- filename: wild_orchid_002.web
-  original: wild_orchid_002.webp
+  thumbnail: wild_032--1x-1.webp
+- filename: wild_09--1x
+  original: wild_09--1x-1.webp
   sizes: []
-  thumbnail: wild_orchid_002.webp
-- filename: wild_orchid_004.web
-  original: wild_orchid_004.webp
+  thumbnail: wild_09--1x-1.webp
+- filename: wild_030--1x
+  original: wild_030--1x-1.webp
   sizes: []
-  thumbnail: wild_orchid_004.webp
-- filename: wild_orchid_005.web
-  original: wild_orchid_005.webp
+  thumbnail: wild_030--1x-1.webp
+- filename: wild_014--1x
+  original: wild_014--1x-1.webp
   sizes: []
-  thumbnail: wild_orchid_005.webp
-- filename: wild_orchid_006.web
-  original: wild_orchid_006.webp
+  thumbnail: wild_014--1x-1.webp
+- filename: wild_029--1x
+  original: wild_029--1x-1.webp
   sizes: []
-  thumbnail: wild_orchid_006.webp
-- filename: wild_orchid_007.web
-  original: wild_orchid_007.webp
+  thumbnail: wild_029--1x-1.webp
+- filename: wild_010--1x
+  original: wild_010--1x-1.webp
   sizes: []
-  thumbnail: wild_orchid_007.webp
-- filename: wild_orchid_008.web
-  original: wild_orchid_008.webp
+  thumbnail: wild_010--1x-1.webp
+- filename: wild_034--1x
+  original: wild_034--1x-1.webp
   sizes: []
-  thumbnail: wild_orchid_008.webp
-- filename: wild_orchid_009.web
-  original: wild_orchid_009.webp
+  thumbnail: wild_034--1x-1.webp
+- filename: wild_036--1x
+  original: wild_036--1x-1.webp
   sizes: []
-  thumbnail: wild_orchid_009.webp
-- filename: wild_reptile_001.web
-  original: wild_reptile_001.webp
+  thumbnail: wild_036--1x-1.webp
+- filename: wild_012--1x
+  original: wild_012--1x-1.webp
   sizes: []
-  thumbnail: wild_reptile_001.webp
-- filename: wild_sanko_001.web
-  original: wild_sanko_001.webp
+  thumbnail: wild_012--1x-1.webp
+- filename: wild_023--1x
+  original: wild_023--1x-1.webp
   sizes: []
-  thumbnail: wild_sanko_001.webp
-- filename: wild_sanko_002.web
-  original: wild_sanko_002.webp
+  thumbnail: wild_023--1x-1.webp
+- filename: wild_03--1x
+  original: wild_03--1x-1.webp
   sizes: []
-  thumbnail: wild_sanko_002.webp
-- filename: wild_sanko_003.web
-  original: wild_sanko_003.webp
+  thumbnail: wild_03--1x-1.webp
+- filename: wild_01--1x
+  original: wild_01--1x-1.webp
   sizes: []
-  thumbnail: wild_sanko_003.webp
-- filename: wild_sanko_004.web
-  original: wild_sanko_004.webp
+  thumbnail: wild_01--1x-1.webp
+- filename: wild_021--1x
+  original: wild_021--1x-1.webp
   sizes: []
-  thumbnail: wild_sanko_004.webp
-- filename: wild_sanko_005.web
-  original: wild_sanko_005.webp
+  thumbnail: wild_021--1x-1.webp
+- filename: wild_025--1x
+  original: wild_025--1x-1.webp
   sizes: []
-  thumbnail: wild_sanko_005.webp
-- filename: wild_sanko_006.web
-  original: wild_sanko_006.webp
+  thumbnail: wild_025--1x-1.webp
+- filename: wild_018--1x
+  original: wild_018--1x-1.webp
   sizes: []
-  thumbnail: wild_sanko_006.webp
-- filename: wild_sanko_007.web
-  original: wild_sanko_007.webp
+  thumbnail: wild_018--1x-1.webp
+- filename: wild_05--1x
+  original: wild_05--1x-1.webp
   sizes: []
-  thumbnail: wild_sanko_007.webp
-- filename: wild_sanko_008.web
-  original: wild_sanko_008.webp
+  thumbnail: wild_05--1x-1.webp
+- filename: wild_07--1x
+  original: wild_07--1x-1.webp
   sizes: []
-  thumbnail: wild_sanko_008.webp
-- filename: wild_sanko_009.web
-  original: wild_sanko_009.webp
+  thumbnail: wild_07--1x-1.webp
+- filename: wild_027--1x
+  original: wild_027--1x-1.webp
   sizes: []
-  thumbnail: wild_sanko_009.webp
-- filename: wild_sanko_010.web
-  original: wild_sanko_010.webp
+  thumbnail: wild_027--1x-1.webp
+- filename: wild_020--1x
+  original: wild_020--1x-1.webp
   sizes: []
-  thumbnail: wild_sanko_010.webp
-- filename: wild_sanko_011.web
-  original: wild_sanko_011.webp
+  thumbnail: wild_020--1x-1.webp
+- filename: wild_022--1x
+  original: wild_022--1x-1.webp
   sizes: []
-  thumbnail: wild_sanko_011.webp
-- filename: wild_sanko_012.web
-  original: wild_sanko_012.webp
+  thumbnail: wild_022--1x-1.webp
+- filename: wild_02--1x
+  original: wild_02--1x-1.webp
   sizes: []
-  thumbnail: wild_sanko_012.webp
-- filename: wild_sanko_013.web
-  original: wild_sanko_013.webp
+  thumbnail: wild_02--1x-1.webp
+- filename: wild_06--1x
+  original: wild_06--1x-1.webp
   sizes: []
-  thumbnail: wild_sanko_013.webp
-- filename: wild_sanko_014.web
-  original: wild_sanko_014.webp
+  thumbnail: wild_06--1x-1.webp
+- filename: wild_026--1x
+  original: wild_026--1x-1.webp
   sizes: []
-  thumbnail: wild_sanko_014.webp
-- filename: wild_sanko_015.web
-  original: wild_sanko_015.webp
+  thumbnail: wild_026--1x-1.webp
+- filename: wild_019--1x
+  original: wild_019--1x-1.webp
   sizes: []
-  thumbnail: wild_sanko_015.webp
-- filename: wild_sanko_016.web
-  original: wild_sanko_016.webp
+  thumbnail: wild_019--1x-1.webp
+- filename: wild_024--1x
+  original: wild_024--1x-1.webp
   sizes: []
-  thumbnail: wild_sanko_016.webp
-- filename: wild_sanko_017.web
-  original: wild_sanko_017.webp
+  thumbnail: wild_024--1x-1.webp
+- filename: wild_04--1x
+  original: wild_04--1x-1.webp
   sizes: []
-  thumbnail: wild_sanko_017.webp
+  thumbnail: wild_04--1x-1.webp
