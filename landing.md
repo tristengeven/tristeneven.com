@@ -5,6 +5,7 @@ description: Landing page template, to be used later
 image: assets/images/remove.webp
 nav-menu: true
 show_tile: true
+style: style4
 ---
 
 <!-- Main -->

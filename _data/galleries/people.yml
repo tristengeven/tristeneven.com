@@ -1,38 +1,38 @@
-picture_path: people
+picture_path: people_jpg
 pictures:
-- filename: ppl_oisin_001--1x
-  original: ppl_oisin_001--1x-1.webp
+- filename: ppl_jessi_001
+  original: ppl_jessi_001-598x399.jpg
   sizes: []
-  thumbnail: ppl_oisin_001--1x-1.webp
-- filename: ppl_ryan_001--1x
-  original: ppl_ryan_001--1x-1.webp
+  thumbnail: ppl_jessi_001-598x399.jpg
+- filename: ppl_oisin_001
+  original: ppl_oisin_001-598x398.jpg
   sizes: []
-  thumbnail: ppl_ryan_001--1x-1.webp
-- filename: ppl_tate_001--1x
-  original: ppl_tate_001--1x-1.webp
+  thumbnail: ppl_oisin_001-598x398.jpg
+- filename: ppl_ryan_001
+  original: ppl_ryan_001-598x410.jpg
   sizes: []
-  thumbnail: ppl_tate_001--1x-1.webp
-- filename: ppl_jessi_001--1x
-  original: ppl_jessi_001--1x-1.webp
+  thumbnail: ppl_ryan_001-598x410.jpg
+- filename: ppl_tate_001
+  original: ppl_tate_001-598x807.jpg
   sizes: []
-  thumbnail: ppl_jessi_001--1x-1.webp
-- filename: ppl_tristen_002--1x
-  original: ppl_tristen_002--1x-1.webp
+  thumbnail: ppl_tate_001-598x807.jpg
+- filename: ppl_tate_002
+  original: ppl_tate_002-598x547.jpg
   sizes: []
-  thumbnail: ppl_tristen_002--1x-1.webp
-- filename: ppl_tristen_001--1x
-  original: ppl_tristen_001--1x-1.webp
+  thumbnail: ppl_tate_002-598x547.jpg
+- filename: ppl_tristen_001
+  original: ppl_tristen_001-598x586.jpg
   sizes: []
-  thumbnail: ppl_tristen_001--1x-1.webp
-- filename: ppl_tristen_003--1x
-  original: ppl_tristen_003--1x-1.webp
+  thumbnail: ppl_tristen_001-598x586.jpg
+- filename: ppl_tristen_002
+  original: ppl_tristen_002-598x380.jpg
   sizes: []
-  thumbnail: ppl_tristen_003--1x-1.webp
-- filename: ppl_tristen_004--1x
-  original: ppl_tristen_004--1x-1.webp
+  thumbnail: ppl_tristen_002-598x380.jpg
+- filename: ppl_tristen_003
+  original: ppl_tristen_003-598x598.jpg
   sizes: []
-  thumbnail: ppl_tristen_004--1x-1.webp
-- filename: ppl_tate_002--1x
-  original: ppl_tate_002--1x-1.webp
+  thumbnail: ppl_tristen_003-598x598.jpg
+- filename: ppl_tristen_004
+  original: ppl_tristen_004-598x598.jpg
   sizes: []
-  thumbnail: ppl_tate_002--1x-1.webp
+  thumbnail: ppl_tristen_004-598x598.jpg
