@@ -1,0 +1,8 @@
+picture_path: sport_jpg
+pictures:
+- filename: sport_mtx_001
+  original: sport_mtx_001-598x361.jpg
+- filename: sport_mtx_002
+  original: sport_mtx_002-598x524.jpg
+- filename: sport_mtx_003
+  original: sport_mtx_003-598x281.jpg
