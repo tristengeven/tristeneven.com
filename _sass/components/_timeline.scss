@@ -8,11 +8,11 @@
     $link: #acb7c0; // anchor tags
     $background: #e9f0f5; // body background color
 
-    $color-1: #303e49; // blue dark
-    $color-2: #c03b44; // red
-    $color-3: #ffffff; // white
-    $color-4: #75ce66; // green
-    $color-5: #f0ca45; // yellow
+    $color-1: _palette(bg);
+    $color-2: _palette(accent1);
+    $color-3: _palette(fg); // white
+    $color-4: _palette(accent3);
+    $color-5: _palette(accent5);
 
     // mixins - rem fallback - credits: http://zerosixthree.se/
 
@@ -227,24 +227,24 @@
 
         img {
             display: block;
-            width: 24px;
-            height: 24px;
+            width: 36px;
+            height: 36px;
             position: relative;
             left: 50%;
             top: 50%;
-            margin-left: -12px;
-            margin-top: -12px;
+            margin-left: -18px;
+            margin-top: -18px;
         }
 
-        &.cd-picture {
+        &.cd-club {
             background: $color-4;
         }
 
-        &.cd-movie {
+        &.cd-school {
             background: $color-2;
         }
 
-        &.cd-location {
+        &.cd-work {
             background: $color-5;
         }
 
@@ -289,6 +289,7 @@
         position: relative;
         margin-left: 60px;
         background: $color-3;
+        line-height: 12px;
         @include border-radius;
         padding: 1em;
         box-shadow: 0 3px 0 darken($background, 5%);
@@ -296,6 +297,8 @@
 
         h2 {
             color: $color-1;
+            line-height: 1;
+            margin: 0;
         }
 
         p, .cd-read-more, .cd-date {
@@ -307,7 +310,7 @@
         }
 
         p {
-            margin: 1em 0;
+            margin: .55em 0;
             line-height: 1.6;
         }
 

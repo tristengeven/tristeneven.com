@@ -1,8 +1,36 @@
-picture_path: sport_jpg
-pictures:
-- filename: sport_mtx_001
-  original: sport_mtx_001-598x361.jpg
-- filename: sport_mtx_002
-  original: sport_mtx_002-598x524.jpg
-- filename: sport_mtx_003
-  original: sport_mtx_003-598x281.jpg
+sections:
+- type: work
+  name: MSA Safety
+  location: Berlin, Germany
+  position: Embedded Systems Praktikant
+  description: MSA Hub Developer and Integration Tester
+  date: 02/2019 - Present
+  link: https://www.msasafety.com/global
+- type: school
+  name: Technische Universität Berlin
+  location: Berlin, Germany
+  position: Auslandssemester
+  description: Studied Informatik in German
+  date: 10/2018 - 02/2019
+  link: https://www.eecs.tu-berlin.de/menue/studium_und_lehre/studiengaenge/informatik_computer_science/informatiktu_berlin/
+- type: work
+  name: HKS Architects
+  location: Dallas, Texas
+  position: Infrastructure Systems Workstudent
+  description: Powershell, Active Directory, and Azure; blue, baby, blue.
+  date: 07/2017 - Present
+  link: https://www.hksinc.com/
+- type: school
+  name: University of Texas at Dallas
+  location: Richardson, Texas
+  position: Computer Science Student
+  description: Paid for, Dean's List, Chi Phi, RUGBY
+  date: 08/2016 - Present
+  link: https://cs.utdallas.edu/
+- type: club
+  name: Cyber Patriots - Open High School Division
+  location: Rowlett, Texas
+  position: Team Member and Leader
+  description: Air Force endorsed cyber security club designed to encourage technically inclined kids not to become criminals.
+  date: 10/2015 - 04/2016
+  link: https://www.uscyberpatriot.org/
