@@ -7,10 +7,10 @@
                     </div> <!-- cd-timeline-img -->
         
                     <div class="cd-timeline-content">
-                        <h2>{{ entry.name }}, {{ entry.location }}<br></h2>
+                        <h2>{{ entry.name }} - {{ entry.location }}<br></h2>
                         <p><i>{{ entry.position }}</i></p>
                         <p>{{ entry.description }}</p>
-                        <a href="{{ entry.link }}" class="cd-read-more">Read more</a>
+                        {% if entry.link %}<a href="{{ entry.link }}" class="cd-read-more">Read more</a>{% endif %}
                         <span class="cd-date">{{ entry.date }}</span>
                     </div> <!-- cd-timeline-content -->
                 </div> <!-- cd-timeline-block -->
