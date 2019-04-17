@@ -1,10 +1,39 @@
 ---
-layout: post
 support: [jquery, timeline]
 ---
+<!DOCTYPE html>
+<!--
+    Description: Timeline Layout
+    Author: Tristen Even
+    Date: 26.03.2019
+-->
+<html>
 
-{{ content }}
+{% include head.html %}
 
-<!-- http://pascalvangemert.nl/#/profile
+    <body>
+
+        {% include header.html %} 
+        
+    <!-- Main -->
+    <div id="main" class="alt">
+
+        <!-- One -->
+        <section id="one">
+            <div class="inner">
+                {{ content }}
+            </div>
+        </section>
+    </div>
+
+        {% include footer.html %}
+
+    </body>
+</html>
+
+<!-- 
+http://pascalvangemert.nl/#/profile
 https://codepen.io/paulhbarker/pen/apvGdv/
-https://codepen.io/anon/pen/qwVeLd -->
+https://codepen.io/anon/pen/qwVeLd 
+https://icons8.com/icons
+-->

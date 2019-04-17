@@ -11,14 +11,14 @@ support: [jquery, timeline]
 <!-- One -->
 <section id="one">
 	<div class="inner">
-		<p>This page will soon display all of my talents....a one-liner if there ever was one.</p>
+		<p>This is an interactive timeline representation of my past places of work, study, and passion. I am a Computer Science student at the University of Texas at Dallas. I am a strong team-oriented professional with an interest in Network & Infrastructure Systems. I have a demonstrated history of work in the IT support/infrastructure industry. I am skilled in process automation, user and data management, and repair troubleshooting.</p>
 	</div>
 </section>
 
 <!-- Two -->
 <section id="two">
     <div class="inner">
-        {% include timeline_layout.html %}
+        {% include timeline_layout.html timeline=site.data.timelines.resume %}
     </div>
 </section>
 
