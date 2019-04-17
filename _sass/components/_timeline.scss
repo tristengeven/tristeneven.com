@@ -8,12 +8,6 @@
     $link: #acb7c0; // anchor tags
     $background: #e9f0f5; // body background color
 
-    $color-1: _palette(bg);
-    $color-2: _palette(accent1);
-    $color-3: _palette(fg); // white
-    $color-4: _palette(accent3);
-    $color-5: _palette(accent5);
-
     // mixins - rem fallback - credits: http://zerosixthree.se/
 
     @function calculateRem($size) {
@@ -116,10 +110,10 @@
         height: 200px;
         line-height: 200px;
         text-align: center;
-        background: $color-1;
+        background: _palette(bg);
 
         h1 {
-            color: $color-3;
+            color: _palette(fg);
             @include font-size(18px);
         }
 
@@ -188,7 +182,7 @@
                 left: auto;
                 right: 100%;
                 border-color: transparent;
-                border-right-color: $color-3;
+                border-right-color: _palette(fg);
             }
 
             .cd-read-more {
@@ -223,7 +217,7 @@
         width: 40px;
         height: 40px;
         border-radius: 50%;
-        box-shadow: 0 0 0 4px $color-3, inset 0 2px 0 rgba(#000, .08), 0 3px 0 4px rgba(#000, .05) ;
+        box-shadow: 0 0 0 4px _palette(fg), inset 0 2px 0 rgba(#000, .08), 0 3px 0 4px rgba(#000, .05) ;
 
         img {
             display: block;
@@ -237,15 +231,23 @@
         }
 
         &.cd-club {
-            background: $color-4;
+            background: _palette(accent4);
         }
 
         &.cd-school {
-            background: $color-2;
+            background: _palette(accent3);
         }
 
         &.cd-work {
-            background: $color-5;
+            background: _palette(accent1);
+        }
+
+        &.cd-birth {
+            background: _palette(accent6);
+        }
+
+        &.cd-volunteer {
+            background: _palette(accent2);
         }
 
         @include MQ(L) {
@@ -288,7 +290,7 @@
     .cd-timeline-content {
         position: relative;
         margin-left: 60px;
-        background: $color-3;
+        background: _palette(fg);
         line-height: 12px;
         @include border-radius;
         padding: 1em;
@@ -296,7 +298,7 @@
         @include clearfix;
 
         h2 {
-            color: $color-1;
+            color: _palette(bg);
             line-height: 1;
             margin: 0;
         }
@@ -318,7 +320,7 @@
             float: right;
             padding: .8em 1em;
             background: $link;
-            color: $color-3;
+            color: _palette(fg);
             @include border-radius;
 
             .no-touch &:hover {
@@ -340,7 +342,7 @@
             height: 0;
             width: 0;
             border: 7px solid transparent;
-            border-right: 7px solid $color-3;
+            border-right: 7px solid _palette(fg);
         }
 
         @include MQ(M) {
@@ -366,7 +368,7 @@
                 top: 24px;
                 left: 100%;
                 border-color: transparent;
-                border-left-color: $color-3;
+                border-left-color: _palette(fg);
             }
 
             .cd-read-more {
@@ -376,8 +378,8 @@
             .cd-date {
                 position: absolute;
                 width: 100%;
-                left: 122%;
-                top: 6px;
+                left: 121%;
+                top: 12px;
                 @include font-size(16px);
             }
 
@@ -389,7 +391,7 @@
                     left: auto;
                     right: 100%;
                     border-color: transparent;
-                    border-right-color: $color-3;
+                    border-right-color: _palette(fg);
                 }
 
                 .cd-read-more {
@@ -425,7 +427,7 @@
                 left: auto;
                 right: 100%;
                 border-color: transparent;
-                border-right-color: $color-3;
+                border-right-color: _palette(fg);
             }
 
             .cd-read-more {
