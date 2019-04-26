@@ -7,6 +7,7 @@ image: null
 author: null
 show_tile: false
 email: tristengeven@gmail.com
+support: [p5js]
 ---
 
 Welcome to my personal website.
