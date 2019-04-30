@@ -2,6 +2,7 @@
 layout: landing
 title: Projects
 description: Projects I'm working on
+order: 2
 image: assets/images/code.webp
 email: tristen.even@utdallas.edu
 nav-menu: true
@@ -11,20 +12,10 @@ show_tile: true
 <!-- Main -->
 <div id="main">
 
-<!-- One -->
-<section id="one">
-	<div class="inner">
-		<header class="major">
-			<h2>What to do</h2>
-		</header>
-		<p>Post personal projects (meaning first start personal projects so that you can post them)</p>
-	</div>
-</section>
-
-<!-- Two -->
-<section id="two" class="spotlights">
+<!-- one -->
+<section id="one" class="spotlights">
 	<section>
-		<a href="generic.html" class="image">
+		<a class="image">
 			<img src="assets/images/homepage.webp" alt="" data-position="center center" />
 		</a>
 		<div class="content">
@@ -32,41 +23,59 @@ show_tile: true
 				<header class="major">
 					<h3>Personal Site</h3>
 				</header>
-				<p>My biggest project right now is this site (meta, right?), but there will be more to come as I get this off the ground. I know this page is currently lackluster, but hold tight.</p>
+				<p>This site itself have been a fun and interesting catalyst to my interest in web development. Currently built using the <i>Jekyll</i> static site generator, it has proved a useful playground for familiarizing myself with the concepts of JavaScript, Liquid, CSS3, and Web Optimization.</p>
 				<ul class="actions">
-					<li><a href="index.html" class="button">Take me home</a></li>
+					<li><a href="index.html" class="button">To Homepage</a></li>
+					<li><a href="https://github.com/tristengeven/tristeneven.com" target="_blank" class="button">GitHub Repository</a></li>
 				</ul>
 			</div>
 		</div>
 	</section>
 	<section>
-		<a href="generic.html" class="image">
-			<img src="assets/images/remove.webp" alt="" data-position="top center" />
+		<a class="image">
+			<img src="assets/images/rugbypage.jpg" alt="" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Project 2</h3>
+					<h3>UT Dallas Rugby Site</h3>
 				</header>
-				<p>Quality description</p>
+				<p>Being an Engineering University, many of the UTD Rugby team members are engineers. This site is a sandbox of sorts for us to collaborate, try out ideas, and learn in a way that also benefits our team. This simple site currently uses a basic Open Source UI Kit for Bootstrap 4, React, Vue.js, React Native and Sketch.</p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
+					<li><a href="https://www.utdallasrugby.org/" class="button">Visit site</a></li>
+					<li><a href="https://github.com/tristengeven/UTDallasRugby.github.io" target="_blank" class="button">GitHub Repository</a></li>
 				</ul>
 			</div>
 		</div>
 	</section>
 	<section>
-		<a href="generic.html" class="image">
-			<img src="assets/images/remove.webp" alt="" data-position="25% 25%" />
+		<a class="image">
+			<img src="assets/images/comingsoon.png" alt="" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Project 3</h3>
+					<h3>MEAN Stack Webapp</h3>
 				</header>
-				<p>Quality description</p>
+				<p>This project is still in the initial phases. More information will come soon.</p>
 				<ul class="actions">
-					<li><a href="wildlife.html" class="button">Take me there</a></li>
+					<li><a href="https://github.com/tristengeven/evenmean" target="_blank" class="button">GitHub Repository</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+	<section>
+		<a class="image">
+			<img src="assets/images/comingsoon.png" alt="" data-position="center center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Family Tree Generator</h3>
+				</header>
+				<p>This project is still in the initial phases. More information will come soon.</p>
+				<ul class="actions">
+					<li><a href="https://github.com/tristengeven/familytree" target="_blank" class="button">GitHub Repository</a></li>
 				</ul>
 			</div>
 		</div>

@@ -4,7 +4,7 @@ layout: landing
 description: Landing page template, to be used later
 image: assets/images/remove.webp
 nav-menu: true
-show_tile: true
+show_tile: false
 style: style4
 ---
 

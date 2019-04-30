@@ -2,6 +2,7 @@
 layout: landing
 title: Photography
 description: My attempt at taking pictures worth seeing
+order: 3
 image: assets/images/mirror_camera.webp
 email: evensophotography@gmail.com
 nav-menu: true

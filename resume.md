@@ -2,7 +2,8 @@
 layout: timeline
 title: Resume
 description: Responsive Timeline of my Qualifications & Abilities
-image: assets/images/desk.jpg
+order: 1
+image: assets/images/desk.webp
 email: tristen.even@utdallas.edu
 nav-menu: true
 show_tile: true
