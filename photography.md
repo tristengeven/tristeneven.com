@@ -7,7 +7,6 @@ image: assets/images/mirror_camera.webp
 email: evensophotography@gmail.com
 nav-menu: true
 show_tile: true
-style: style3
 ---
 
 <!-- Main -->
