@@ -3,7 +3,7 @@ title: Landing
 layout: landing
 description: Landing page template, to be used later
 image: assets/images/remove.webp
-nav-menu: true
+nav-menu: false
 show_tile: false
 style: style4
 ---

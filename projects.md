@@ -33,7 +33,7 @@ show_tile: true
 	</section>
 	<section>
 		<a class="image">
-			<img src="assets/images/rugbypage.jpg" alt="" data-position="center center" />
+			<img src="assets/images/rugbypage.jpg" alt="" data-position="center center" style="height: 100%;"/>
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -50,15 +50,16 @@ show_tile: true
 	</section>
 	<section>
 		<a class="image">
-			<img src="assets/images/comingsoon.png" alt="" data-position="center center" />
+			<img src="assets/images/evenmean.png" alt="" data-position="center center" style="height: 100%;"/>
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
 					<h3>MEAN Stack Webapp</h3>
 				</header>
-				<p>This project is still in the initial phases. More information will come soon.</p>
+				<p>This project creates a mock "Social Network" using the MEAN tech stack. I find the component architecture of Angular very intuitive, and really enjoyed using it. This was my first use of Node as well, which I also found enjoyable.</p>
 				<ul class="actions">
+					<li><a href="https://evenmean.netlify.com" class="button">Visit site</a></li>
 					<li><a href="https://github.com/tristengeven/evenmean" target="_blank" class="button">GitHub Repository</a></li>
 				</ul>
 			</div>
