@@ -4,7 +4,7 @@ title: About Me
 description: Short Biography
 order: 4
 email: tristengeven@gmail.com
-image: assets/images/tristen_sanko_portrait.jpg
+image: assets/images/tristen_sanko_portrait.webp
 nav-menu: true
 show_tile: true
 ---
