@@ -65,20 +65,4 @@ show_tile: true
 			</div>
 		</div>
 	</section>
-	<section>
-		<a class="image">
-			<img src="assets/images/comingsoon.png" alt="" data-position="center center" />
-		</a>
-		<div class="content">
-			<div class="inner">
-				<header class="major">
-					<h3>Family Tree Generator</h3>
-				</header>
-				<p>This project is still in the initial phases. More information will come soon.</p>
-				<ul class="actions">
-					<li><a href="https://github.com/tristengeven/familytree" target="_blank" class="button">GitHub Repository</a></li>
-				</ul>
-			</div>
-		</div>
-	</section>
 </section>
