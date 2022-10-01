@@ -70,8 +70,8 @@ export default function Home() {
               out if you'd like to work together. */}
               Systems Administrator with a passion for maintaining knowledge and
               capability in current tech trends. I love to work with small
-              businesses and individuals to make things work. Let's create
-              something together.
+              businesses and individuals to make things work. Let`&apos;`s
+              create something together.
             </p>
           </div>
           {/* <div className=" text-4xl flex justify-center gap-10 py-3 text-gray-600 dark:text-sky-900">
