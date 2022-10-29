@@ -1,0 +1,3 @@
+[[redirects]]
+  from = "/wordle"
+  to = "https://tristenwordle.netlify.app/"
