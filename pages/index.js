@@ -70,8 +70,8 @@ export default function Home() {
               out if you'd like to work together. */}
               Systems Administrator with a passion for maintaining knowledge and
               capability in current tech trends. I love to work with small
-              businesses and individuals to make things work. Let`&apos;`s
-              create something together.
+              businesses and individuals to make things work. Let&apos;s create
+              something together.
             </p>
           </div>
           {/* <div className=" text-4xl flex justify-center gap-10 py-3 text-gray-600 dark:text-sky-900">
@@ -104,8 +104,8 @@ export default function Home() {
               desktop support
             </p> */}
           </div>
-          <div className="lg:flex gap-10">
-            <div className="text-center shadow-xl p-10 rounded-xl my-10 dark:bg-white">
+          <div className="lg:flex lg:justify-between gap-10">
+            <div className="text-center shadow-xl p-10 rounded-xl my-10 dark:bg-white lg:max-w-[22%]">
               {/* <Image src={design} width={100} height={100} /> */}
               <MdWeb className=" text-6xl mx-auto text-sky-800" />
               <h3 className="text-lg font-medium pt-8 pb-2">Web Design</h3>
@@ -115,10 +115,11 @@ export default function Home() {
               </h4>
               <p className="text-gray-800 py-1">HTML/CSS/JS</p>
               <p className="text-gray-800 py-1">React</p>
+              <p className="text-gray-800 py-1">NextJS</p>
               <p className="text-gray-800 py-1">Angular</p>
-              <p className="text-gray-800 py-1">Gatsby</p>
+              <p className="text-gray-800 py-1">TailwindCSS</p>
             </div>
-            <div className="text-center shadow-xl p-10 rounded-xl my-10 dark:bg-white">
+            <div className="text-center shadow-xl p-10 rounded-xl my-10 dark:bg-white lg:max-w-[22%]">
               {/* <Image src={consulting} width={100} height={100} /> */}
               <BiServer className=" text-6xl mx-auto text-sky-800" />
               <h3 className="text-lg font-medium pt-8 pb-2">Infrastucture</h3>
@@ -134,7 +135,7 @@ export default function Home() {
               <p className="text-gray-800 py-1">Office 365</p>
               <p className="text-gray-800 py-1">Outlook</p>
             </div>
-            <div className="text-center shadow-xl p-10 rounded-xl my-10 dark:bg-white">
+            <div className="text-center shadow-xl p-10 rounded-xl my-10 dark:bg-white lg:max-w-[22%]">
               {/* <Image src={code} width={100} height={100} /> */}
               <BsCodeSlash className=" text-6xl mx-auto text-sky-800" />
               <h3 className="text-lg font-medium pt-8 pb-2">Code</h3>
@@ -143,11 +144,12 @@ export default function Home() {
               </p>
               <h4 className="py-4 font-medium text-sky-900">Languages I use</h4>
               <p className="text-gray-800 py-1">Javascript</p>
+              <p className="text-gray-800 py-1">Typescript</p>
               <p className="text-gray-800 py-1">Python</p>
               <p className="text-gray-800 py-1">Powershell/Bash</p>
             </div>
 
-            <div className="text-center shadow-xl p-10 rounded-xl my-10 dark:bg-white">
+            <div className="text-center shadow-xl p-10 rounded-xl my-10 dark:bg-white lg:max-w-[22%]">
               {/* <Image src={consulting} width={100} height={100} /> */}
               <BsPeople className=" text-6xl mx-auto text-sky-800" />
               <h3 className="text-lg font-medium pt-8 pb-2">Tutoring</h3>
