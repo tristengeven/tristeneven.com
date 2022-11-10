@@ -1,6 +1,10 @@
 [[redirects]]
-  from = "/wordle"
-  to = "https://tristenwordle.netlify.app/"
+  from = "/games/wordle"
+  to = "https://evenwordle.netlify.app"
+
+[[redirects]]
+  from = "/games/hangman"
+  to = "https://evenhangman.netlify.app" 
 
 [[redirects]]
   from = "/worship"
