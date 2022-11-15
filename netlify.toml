@@ -7,5 +7,9 @@
   to = "https://evenhangman.netlify.app" 
 
 [[redirects]]
+  from = "/games/brick"
+  to = "https://evenbrick.netlify.app"  
+
+[[redirects]]
   from = "/worship"
   to = "https://worship-together.netlify.app/" 
